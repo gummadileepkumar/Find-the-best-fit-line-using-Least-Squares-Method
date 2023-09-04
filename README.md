@@ -45,8 +45,10 @@ plt.plot(X,Y_pred,color="red")
 plt.show()
 ```
 
+
 ## Output:
 ![model](/ML_exp-1.png)
+
 
 
 ## Result:
